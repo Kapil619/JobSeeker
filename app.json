@@ -6,10 +6,6 @@
     },
     "plugins": ["expo-router"],
     "name": "JobSeeker",
-    "slug": "JobSeeker",
-    "android": {
-      "package": "com.yourcompany.yourappname",
-      "versionCode": 1
-    }
+    "slug": "JobSeeker"
   }
 }
