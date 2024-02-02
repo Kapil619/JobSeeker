@@ -4,7 +4,7 @@ const Home = () => {
     return (
 
         <View>
-            <Text>Hey I'm Kapil</Text>
+            <Text>Hey I'm Mohanish Desale , I'm 20 years  old</Text>
         </View>
     );
 }
