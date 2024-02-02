@@ -4,10 +4,12 @@
     "web": {
       "bundler": "metro"
     },
-    "plugins": [
-      "expo-router"
-    ],
+    "plugins": ["expo-router"],
     "name": "JobSeeker",
-    "slug": "JobSeeker"
+    "slug": "JobSeeker",
+    "android": {
+      "package": "com.yourcompany.yourappname",
+      "versionCode": 1
+    }
   }
 }
